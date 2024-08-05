@@ -8,6 +8,7 @@ __pycache__/
 
 images/
 meals/
+.DS_Store
 
 # Distribution / packaging
 .Python
